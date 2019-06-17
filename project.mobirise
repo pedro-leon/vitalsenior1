@@ -64,13 +64,13 @@
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "customCookies": {
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
+      "colorText": "#ffffff",
+      "colorBg": "#9914cc",
       "colorButton": "#ffffff",
-      "colorLink": "#424a4d",
+      "colorLink": "#efefef",
       "underlineLink": true,
       "opacity": "99",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+      "text": "Usamos cookies para darte la mejor experiencia. Puedes leer nuestra <a href='cookies.html'>política de cookies</a>."
     },
     "sitemapSwitcher": "on"
   },
