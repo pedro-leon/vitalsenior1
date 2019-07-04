@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vitalsenior",
-    "currentPage": "index.html",
+    "currentPage": "redes-sociales.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -6772,8 +6772,8 @@
         {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "postToLoad": "7",
             "facebookToken": "",
             "facebook": "",
